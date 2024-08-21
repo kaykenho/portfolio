@@ -1,0 +1,149 @@
+{
+    "name": "Kayky Matos",
+    "summary": "I started out studying web development using HTML, CSS, and JavaScript, while also studying Python and SQL. I am currently pursuing my Bachelor of Science in Software Engineering and Professional Certifications at IBM. I recently completed my Specializations in Responsible Generative AI at the University of Michigan; Generative AI for Software Developers at IBM; Generative AI at Google Cloud; and DevOps, Cloud, and Agile Foundations at IBM. Continuous learning is crucial as the technology landscape evolves rapidly, so mastering skills and knowledge is essential for effective application in my career!",
+    "about": "I am a passionate Software Engineering student with a deep interest in artificial intelligence and cloud computing. My journey started with web development and has evolved into a broader interest in AI technologies and their applications. I have pursued certifications from leading institutions like IBM, Google, and the University of Michigan, focusing on generative AI, DevOps, and Agile methodologies. My aim is to leverage these skills to innovate and contribute to cutting-edge projects in the tech industry. I recently authored an article on Artificial Intelligence and Quantum Computing, explaining the technologies and their fusion, you can check out on https://idcn-ai.network/the-integration-of-ai-directories-in-modern-technology/. I've developed in co-participation and taught a complete seminar about computer science, which in the end was heard by more than 600 people who attended the event. I have experience with development, operationalization and implementation of academic projects in and around computer sciences with the enhancement of resources and inputs; Project planning and monitoring academic projects; Creation and development of various seminars, conferences, events and stands based on Computer Science, Artificial Intelligence and New Technologies. At this point, I've gained experience in freelance designing and graphically implementing banners, flyers and logos for food and educational companies.",
+    "skills": [
+      "Top skills - Software Development | Artificial Intelligence (AI) | Large Language Models (LLM) | React Native | Django | Python (Programming Language) | JavaScript | DevOps",
+      "Business Intelligence (BI)",
+      "AI Software Development",
+      "Soft Skills - Leadership",
+      "Troubleshooting",
+	  "Suggest solutions for possible inefficiencies in processes",
+      "Proactive and adaptable in teamwork; Excellent communication skills and ability to work in a team environment; Working on individual and team projects",
+      "Network with other teams; Experience in team meetings and events (Google Meet, Zoom, Teams, etc.)",
+      "English as a Second Language (ESL)",
+      "Public Speaking",
+      "Cross-Cultural Communication Skills"
+
+    ],
+    "languages": [
+      "Spanish (Limited Working)",
+      "English (Native or Bilingual)",
+      "Portuguese (Native or Bilingual)"
+    ],
+    "certifications": [
+      {
+        "title": "IBM Machine Learning Professional Certificate",
+        "description": "Skill (Concluded): Artificial Intelligence (AI); Machine Learning (ML);  Deep Learning; Artificial Neural Network; Python Programming; Unsupervised Learning; Supervised Learning; unsupervised machine learning."
+      },
+      {
+        "title": "IBM AI Engineering Professional Certificate",
+        "description": "Skill (Concluded): Artificial Intelligence (AI); Deep Learning; Machine Learning; Artificial Neural Network; Neural Networks."
+      },
+      {
+        "title": "IBM AI Product Manager Professional Certificate",
+        "description": "Skill (Concluded): Artificial Intelligence (AI); Generative Artificial Intelligence (Generative AI); Large Language Models (LLM); Natural Language Generation; Data Science; Machine Learning; Deep Learning; Prompt engineering; ChatGPT; prompt patterns."
+      },
+      {
+        "title": "IBM IT Scrum Master Professional Certificate",
+        "description": "Skill (Concluded): Cloud Computing; Operating Systems; agile; Software engineering; Software Development Lifecycle (SDLC), Software development tools; DevOps essential; Scrum (Software Development); Kanban; Kanban Board; Sprints; Product Backlog; User Story; Software Architecture; Python Programming; Agile and Scrum; CI/CD; Devops; TDD/BDD; Cloud Native; Zenhub; Scrum  Methodology; Agile Software Development; Sprint Planning; Information Technology; Agile Management; "
+      },
+      {
+        "title": "IBM DevOps and Software Engineering Professional Certificate",
+        "description": "DevOps Essentials (Concluded) – Devops; Test-Driven Development;  Behavior-Driven Development; Cloud Native. Agile; Continuous Integration; Continuous Development; Infrastructure As Code; Cloud Computing; Cloud Computing; Hybrid Multicloud; Iaas PaaS Saas; Cloud Native; Cloud Applications; AWS, Microsoft Azure, Google Cloud, IBM Cloud, Alibaba Cloud, and others; Architect Cloud; Containers; Python Programming; Application development; Web Application; Artificial Intelligence (AI); Data Science;  Extract Transform and Load (ETL); Kanban; Zenhub; Scrum  Methodology; Agile Software Development; Sprint Planning."
+      },
+      {
+        "title": "IBM Data Engineering Professional Certificate",
+        "description": "Data Engineering Essentials (Concluded) – SQL; NoSQL; Information Engineering; Data Science;  Data Engineer; Database (DBMS); Cloud Database; IBM Cloud; Cloud Database; IBM Cloud; Extract Transform and Load (ETL); Python Programming; Machine Learning; MySQL."
+      },
+      {
+        "title": "IBM Data Science Professional Certificate",
+        "description": "Skill (Concluded): Python Programming; Data Science; Cloud Databases; SQL; Machine Learning; Deep Learning."
+      },
+      {
+        "title": "IBM Back-End Development Professional Certificate",
+        "description": "Software Engineering Essentials  (Concluded) – Software Engineering; Software Architecture; Agile and Scrum; Software Development Lifecycle (SDLC); Software development tools; Design patterns; Deployment architectures; Extract Transform and Load (ETL); Cloud Applications; ); SQL; Containers; Cloud Native; Data Science; Python Programming; Application Development; Web Application; Artificial Intelligence (AI)."
+      },
+      {
+        "title": "IBM Front-End Developer Professional Certificate",
+        "description": "Getting Started with Front-End and Web Development (Concluded) – Front-End Web Development; UI/UX Designer; Web Development; Wordpres; No-code; Software Engineering; Software Architecture; Agile and Scrum; Software Development Lifecycle (SDLC); Software development tools; Design patterns; Deployment architectures; Devops; JavaScript; Cascading Style Sheets (CSS); Python Programming; Software Engineer; Web; Continuous Integration; Continuous Delivery; agile; Coding Challenge."
+      },
+      {
+        "title": "IBM Full Stack Software Developer Professional Certificate",
+        "description": "Introduction to Cloud Computing (Concluded) – Cloud Computing; Hybrid Multicloud; Iaas PaaS Saas; Cloud Native; Cloud Applications;  AWS,  Microsoft Azure,  Google  Cloud,  IBM Cloud,  Alibaba  Cloud,  and  others; Architect  Cloud;  Containers;  Python Programming; Application development; Web Application; Front-end Development; Web Development; JavaScript; Data Science; Artificial Intelligence (AI); Python Programming; Web Development; Cascading Style Sheets (CSS); Cloud; HTML; Web Application; Computer Science); SQL; Coding Challenge."
+      },
+      {
+        "title": "DevOps Essentials (Concluded)",
+        "description": "Devops; Test-Driven Development; Behavior-Driven Development; Cloud Native. Agile; Continuous Integration; Continuous Development; Infrastructure As Code; Cloud Computing; Hybrid Multicloud; Iaas PaaS Saas; Cloud Native; Cloud Applications; AWS, Microsoft Azure, Google Cloud, IBM Cloud, Alibaba Cloud, and others; Architect Cloud; Containers; Python Programming; Application development; Web Application; Artificial Intelligence (AI); Data Science; Extract Transform and Load (ETL); Kanban; Zenhub; Scrum Methodology; Agile Software Development; Sprint Planning."
+      },
+      {
+        "title": "Data Engineering Essentials (Concluded)",
+        "description": "SQL; NoSQL; Information Engineering; Data Science; Data Engineer; Database (DBMS); Cloud Database; IBM Cloud; Extract Transform and Load (ETL); Python Programming; Machine Learning; MySQL."
+      },
+      {
+        "title": "IBM AI Developer Professional Certificate (In Progress)",
+        "description": "Software Engineering Essentials (Concluded) Introduction to Artificial Intelligence (AI) (Concluded) Generative AI: Introduction and Applications (Concluded) Generative AI: Prompt Engineering (Concluded) Python for Data Science, AI & Development (Concluded) Generative AI: Elevate your Software Development Career (Concluded) Software Developer Career Guide and Interview Preparation (Concluded) | Skill (Concluded): Software Engineering; Software Architecture; Software Engineer; Python Programming; Web Development; JavaScript; Web; Cascading Style Sheets (CSS); Application development; Web Application; Software Development Lifecycle (SDLC); Software Development; Artificial Intelligence (AI); Generative AI; Large Language Models (LLM); Natural Language Generation; Data Science; Agile and Scrum; Machine Learning;  Deep Learning; Code generation; AI prompts; Coding Challenge; Voice Assistants; Chatbots; ChatGPT; Prompt Engineering; prompt patterns; GitHub CoPilot, Google Gemini; IBM watsonx Code Assistant; generative AI models; Coding Challenge; AI technologies; AI platforms."
+      },
+      {
+        "title": "NVIDIA - Introduction to Networking  (Concluded)",
+        "description": "Networking; Internet Protocol Suite (TCP/IP); Transmission Control Protocol (TCP); OSI Model; Internet Protocol (IP); Ethernet; Signal Transfer Point (STP)."
+      },
+      {
+        "title": "IBM - Machine Learning Introduction for Everyone  (Concluded)",
+        "description": "Machine Learning (ML); Artificial Intelligence (AI); Artificial Neural Networks; Natural Language Processing (NLP); Deep Learning; Artificial Intelligence Applications; Watson AI; Neural Network."
+      }
+    ],
+    "experience": [
+      {
+        "title": "AI Intern",
+        "company": "hubinit",
+        "start_date": "July 2024",
+        "end_date": "Present",
+        "location": "Amsterdam, North Holland, Netherlands",
+        "description": "Working on various AI projects, contributing to the development and implementation of AI solutions."
+      },
+      {
+        "title": "Artificial Intelligence | Large Language Models Trainer",
+        "company": "Outlier",
+        "start_date": "June 2024",
+        "end_date": "Present",
+        "location": "San Jose, California, United States",
+        "description": "Evaluating AI-generated writing by considering various factors such as accuracy, completeness, conciseness, and grammatical accuracy to ensure content quality. Critically analyzing the works of fellow human writers to provide constructive feedback and support. Additionally, generating high-caliber original content in response to specific prompts."
+      },
+      {
+        "title": "Graphic Designer",
+        "company": "Freelance",
+        "start_date": "2022",
+        "end_date": "June 2024",
+        "description": "Designed various graphics for clients, focusing on visual branding and marketing materials."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor's degree in Computer Software Engineering",
+        "institution": "Anhanguera Educacional",
+        "completion_date": "Expected 2025",
+        "additional_info": "Skill: Software Engineering; Artificial Intelligence (AI); Machine Learning; Deep Learning; Generative AI; Large Language Models (LLM); Artificial Intelligence Applications; AI-powered tools; Watson AI; Natural Language Processing (NLP); Prompt Engineering; prompt patterns; ChatGPT; GitHub CoPilot; Google Gemini; IBM watsonx Code Assistant; Software Development; AI prompts; Code generation; Chatbots."
+      },
+      {
+        "degree": "Specialization in Responsible Generative AI",
+        "institution": "University of Michigan",
+        "completion_date": "June 2024",
+        "additional_info": "Generative AI: Fundamentals, Applications, and Challenges | Generative AI: Impact on Business and Society; | Generative AI: Governance, Policy, and Emerging Regulation; | Generative AI: Labor and the Future of Work | Skill: Generative AI; Responsible Generative AI; Generative AI Strategy; Risk Management; Generative AI Labor; Generative AI Governance; Strategy; Leadership and Management; Future of Work"
+      },
+      {
+        "degree": "Specialization in DevOps, Cloud, and Agile",
+        "institution": "IBM",
+        "completion_date": "June 2024",
+        "additional_info": "DevOps Essentials | Introduction to Cloud Computing | Introduction to Agile Development and Scrum | Skill: – Devops; Test-Driven Development; Behavior-Driven Development; Cloud Native. Agile; Continuous Integration; Continuous Development; Infrastructure As Code; Cloud Computing; Cloud Computing; Hybrid Multicloud; Iaas PaaS Saas; Cloud Native; Cloud Applications; AWS, Microsoft Azure, Google Cloud, IBM Cloud, Alibaba Cloud, and others; Architect Cloud; Containers; Python Programming; Application development; Web Application; Artificial Intelligence (AI); Data Science;  Extract Transform and Load (ETL); Cloud Computing; Hybrid Multicloud; Iaas PaaS Saas; Cloud Native; Cloud Applications;  AWS,  Microsoft Azure,  Google  Cloud,  IBM Cloud,  Alibaba Cloud,  and  others; Architect  Cloud;  Containers;  Python Programming; Application development; Web Application; Front-end Development; Web Development; JavaScript; Data Science; Artificial Intelligence (AI); Python Programming; Web Development; Cascading Style Sheets (CSS); Cloud; HTML; Web Application; Computer Science); SQL; Kanban; Zenhub; Scrum Methodology; Agile Software Development; Sprint Planning."
+      },
+      {
+        "degree": "Specialization in Generative AI",
+        "institution": "Google",
+        "completion_date": "June 2024",
+        "additional_info": "Introduction to Generative AI | Introduction to Large Language Models | Introduction to Responsible AI | Responsible AI: Applying AI Principles with Google Cloud | Skill: Artificial Intelligence (AI); Machine Learning • Deep Learning; Generative AI; Large Language Models (LLM) • Google Cloud Platform (GCP); Artificial Intelligence Applications; Watson AI; Natural Language Processing (NLP)."
+      },
+      {
+        "degree": "Specialization in Generative AI and Software Development",
+        "institution": "IBM",
+        "completion_date": "June 2024",
+        "additional_info": "Generative AI: Introduction and Applications | Generative AI: Prompt Engineering Basics | Generative AI: Elevate your Software Development Career | Skill: Software Engineering; Artificial Intelligence (AI); Machine Learning | Deep Learning; Generative AI; Large Language Models (LLM); Artificial Intelligence Applications; AI-powered tools ; Watson AI; Natural Language Processing (NLP); Prompt Engineering; prompt patterns; ChatGPT; GitHub CoPilot; Google Gemini; IBM watsonx Code Assistant; Software Development; AI prompts; Code generation; Chatbots"
+      }
+    ],
+    "contact": {
+        "email": "kaykymatos@hotmail.com",
+        "linkedin": "https://www.linkedin.com/in/kayky-matos",
+        "github": "https://github.com/kaykenho",
+        "coursera": "https://www.coursera.org/learner/kayky-matos"
+      }
+    }

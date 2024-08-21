@@ -1,0 +1,167 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  position: relative;
+  padding: 0 20px;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #282c34;
+  color: white;
+  padding: 10px;
+}
+
+.navbar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar ul li {
+  margin: 0 15px;
+}
+
+.navbar ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.section {
+  padding: 60px 20px;
+  min-height: 100vh;
+}
+
+.home {
+  background-color: #282c34;
+  color: white;
+}
+
+.about, .skills, .education, .contact {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+
+h1, h2 {
+  color: #61dafb;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+.section {
+  padding: 60px 20px;
+  min-height: 100vh;
+}
+
+/* Specific styling for the Home section (where summary is displayed) */
+.home {
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.home h1 {
+  font-size: 2rem; /* Adjust the font size as needed */
+}
+
+.home p {
+  max-width: 600px; /* Adjust the width to make the text box compact */
+  margin: 0 auto; /* Center the text box horizontally */
+  padding: 10px; /* Add padding for better readability */
+  line-height: 1.6; /* Improve readability with line height */
+  font-size: 1.1rem; /* Adjust font size if needed */
+  word-wrap: break-word; /* Ensure text wraps correctly */
+}
+
+/* Other sections styling for consistency */
+.about, .skills, .experience, .education, .contact {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+/* Style for certifications section */
+.certifications {
+  padding: 2rem;
+}
+
+.certifications ul {
+  list-style-type: disc;
+  padding-left: 30rem;
+  padding-right: 30rem;
+}
+
+.certifications li {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.certifications strong {
+  font-size: 1.1rem;
+}
+
+/* Style for education section */
+.education {
+  padding: 2rem;
+}
+
+.education ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.education li {
+  margin-bottom: 2rem;
+  font-size: 1rem;
+}
+
+.education strong {
+  display: block;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.education p {
+  font-size: 0.9rem;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.experience {
+  background-color: #f0f0f0;
+  color: #333;
+  padding-left: 20rem;
+  padding-right: 20rem;
+}
+
+
+.about p {
+  max-width: 600px; /* Adjust the width to make the text box compact */
+  margin: 0 auto; /* Center the text box horizontally */
+  padding: 10px; /* Add padding for better readability */
+  line-height: 1.6; /* Improve readability with line height */
+  font-size: 1.1rem; /* Adjust font size if needed */
+  word-wrap: break-word; /* Ensure text wraps correctly */
+}
